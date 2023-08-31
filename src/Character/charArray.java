@@ -6,12 +6,10 @@ package Character;
 public class charArray {
     public static void main(String[] args) {
         //1nd way to define character array
-        // Define and initialize an array of characters
         char[] charArray = {'H', 'e', 'l', 'l', 'o'};
 
         //2nd way to define character array
         char[] emptyArray = new char[5];
-        // Fill the array with characters
         emptyArray[0] = 'J';
         emptyArray[1] = 'a';
         emptyArray[2] = 'v';
